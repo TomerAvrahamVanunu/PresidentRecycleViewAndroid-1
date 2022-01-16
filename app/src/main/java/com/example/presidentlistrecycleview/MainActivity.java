@@ -20,11 +20,6 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = "Presidents App" ;
     Button btn_addOne;
 
-    //RecyclerView.Adapter mAdapter;
-    //RecyclerView recyclerView;
-    //private RecyclerView.Adapter mAdapter;
-    //RecyclerView.LayoutManager layoutManager;
-
     List<President> presidentList = new ArrayList<President>();
 
     // we add here 3 privte for RecyclerView
